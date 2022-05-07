@@ -1,2 +1,6 @@
 # PyScript Playground
 Playing around PyScript and testing its features...
+
+## Note
+This is an on going repo, feel free to contribute and practice, lets learn together...
+
